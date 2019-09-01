@@ -1,0 +1,25 @@
+body{
+
+  background: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.nepa.gov.jm%2Fnew%2Fservices_products%2Fsubsites%2Fbeach_guide%2Fimages%2Fboston%2FIMG_7234.jpg&imgrefurl=https%3A%2F%2Fwww.nepa.gov.jm%2Fnew%2Fservices_products%2Fsubsites%2Fbeach_guide%2Fbeaches%2Fboston_bay.php&docid=4g40pGj15ZhaxM&tbnid=Xku2dplyZDcUeM%3A&vet=10ahUKEwjIvsPP8qzkAhW84XMBHXVJBRoQMwh_KAQwBA..i&w=3000&h=2000&client=firefox-b-d&bih=752&biw=767&q=beach&ved=0ahUKEwjIvsPP8qzkAhW84XMBHXVJBRoQMwh_KAQwBA&iact=mrc&uact=8);
+
+  background-repeat: no-repeat;
+}
+
+div{
+
+  background-color: green;
+  border-color: brown;
+  border-width: 10 px;
+  border-style: dotted;
+
+}
+
+span{
+
+   background-color: orange;
+
+}
+
+p{
+  color: red;
+}

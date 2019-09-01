@@ -1,0 +1,49 @@
+body{
+
+  background-color: #6f99de;
+}
+
+h2{
+
+  border-width: 3 px;
+  border-style: solid;
+  border-color: black;
+}
+
+.one{
+
+   background-color: yellow;
+
+}
+
+.two{
+
+  color: purple;
+
+}
+
+#now{
+
+   text-decoration: overline;
+}
+
+#box{
+    border-width: thick;
+    border-style: solid;
+    border-color: grey;
+}
+
+input{
+
+  border-color: red;
+  border-style: solid;
+
+}
+
+div{
+  background-color: #1c2061;
+
+  border-style: dashed;
+  border-width: thick;
+  border-color: yellow;
+}

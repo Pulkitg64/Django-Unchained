@@ -1,0 +1,32 @@
+ul{
+   border: thick;
+   border-color: blue;
+}
+
+.first_div{
+
+   color: green;
+
+}
+
+.second_div{
+
+   color: red;
+
+}
+
+body{
+
+  background-color: grey;
+}
+
+li a{
+
+  color: red;
+}
+
+#singledout{
+
+  color: blue;
+  text-decoration: line-through;
+}
