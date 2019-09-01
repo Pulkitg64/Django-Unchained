@@ -1,0 +1,41 @@
+h1{
+
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+}
+
+.art{
+
+  margin: auto;
+}
+
+td{
+   background-color: blue;
+   height: 420px;
+   width: 150px;
+   border-right: 15px solid white;
+
+
+}
+
+#one{
+  background-color: #2b2d42;
+
+
+}
+
+#two{
+  background-color: #011627;
+}
+
+#three{
+  background-color: #e71d36;
+}
+
+#four{
+  background-color: #ff9f1c;
+}
+
+#five{
+  background-color: #2ec4b6;
+}
