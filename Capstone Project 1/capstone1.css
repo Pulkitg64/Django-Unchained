@@ -1,0 +1,19 @@
+body{
+
+  text-align: center;
+  color: white;
+  background-color: #34ebe5;
+
+}
+
+.main{
+
+  background-color: #201052;
+  width: 80%;
+  margin: auto;
+}
+
+p{
+  width: 55%;
+  margin: auto;
+}
